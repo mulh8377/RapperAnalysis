@@ -1,6 +1,12 @@
 # RapperAnalysis
-A fun python data science project that just analyzes lyrics from various artists.
+A fun python data science project that just analyzes lyrics and albums from various artists.
+Will be using some natural language processing libraries to help with analysis (spaCy, nltk). 
+Hopefully, I can train a model that can score an artist's discography --
 
+## Libraries Still Needing to Be Installed on Virtual Environment
+    - spacy
+    - sqlite3
+    - waiting to be added...
 
 ## Database
 Tables:
